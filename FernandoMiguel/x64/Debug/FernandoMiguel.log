@@ -1,0 +1,5 @@
+﻿  Farm.cpp
+  FernandoMiguel.cpp
+E:\Cicle\Programació\UF4\TASQUES\FernandoMiguel\FernandoMiguel\FernandoMiguel.cpp(14,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  FernandoMiguel.vcxproj -> E:\Cicle\Programació\UF4\TASQUES\FernandoMiguel\x64\Debug\FernandoMiguel.exe
